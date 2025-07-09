@@ -1,0 +1,36 @@
+
+body{
+    margin: 50px;
+    padding: 0px;
+   display: flex;
+    justify-content: center;
+}
+        input[ type="button"]
+        {
+            background-color: rgb(245, 245, 113);
+            border: none;
+            border-radius: 30%;
+            height: 80%;
+            width: 80%;
+            font-size: large;
+            margin: 10px;
+            
+width: 80%;
+        }
+        input[ type="button"]:hover{
+            background-color:greenyellow;
+        }
+        #a{
+            height: 80%;
+            width: 90%;
+           font-size: large;
+        }
+        #box{
+            border-radius: 5%;
+            height: 400px;
+            width: 400px;
+            background-color: #a5def3;
+
+        }
+        
+       
